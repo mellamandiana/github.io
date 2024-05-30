@@ -1,0 +1,49 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 133">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        font-size: 21.002px;
+        font-family: Lato-BlackItalic, Lato;
+        font-weight: 800;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <title>face</title>
+  <g>
+    <g id="Grupo_44" data-name="Grupo 44">
+      <g id="Grupo_46" data-name="Grupo 46">
+        <path id="Trazado_1" data-name="Trazado 1" class="cls-1" d="M339.137,632.5a307.6,307.6,0,0,1,56-15.259" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_2" data-name="Trazado 2" class="cls-1" d="M396.5,617.2a43.152,43.152,0,0,1,10.955,35.839" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_3" data-name="Trazado 3" class="cls-1" d="M336.916,634.974c-.9,6.506-.964,13.347,1.587,19.4s8.2,11.136,14.759,11.448" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_4" data-name="Trazado 4" class="cls-1" d="M353.363,669.081c10.029-2.275,20.4-2.586,30.527-4.375s20.409-5.327,27.514-12.762" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_5" data-name="Trazado 5" class="cls-1" d="M347.215,652.7c-.654,2.33,1.887,4.83,4.244,4.281a4.065,4.065,0,0,0,2.646-5.1,4.11,4.11,0,0,0-.285-.677,4.522,4.522,0,0,0-6.278-1.223l-.053.036" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_6" data-name="Trazado 6" class="cls-1" d="M397.275,639.839c-1.339-.9-3.367.488-3.322,2.1a3.271,3.271,0,0,0,3.3,2.878,4,4,0,0,0-.049-8,4.123,4.123,0,0,0-.457.029" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_7" data-name="Trazado 7" class="cls-1" d="M360.6,659.862l32.157-9.6c1.012,1.625-.415,3.937-2.289,4.328a5.89,5.89,0,0,1-5.134-1.984l-2.775,4.449a1.542,1.542,0,0,1-.9.821c-.538.1-.993-.373-1.333-.8l-3-3.76a3.609,3.609,0,0,1-1.439,4.9c-.094.052-.191.1-.289.142a3.382,3.382,0,0,1-4.354-2.878c-.255,3.174-4.149,4.469-7.294,4.994l-3.633.606c-1.317.219-3.093.174-3.474-1.105" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_8" data-name="Trazado 8" class="cls-1" d="M338.846,628.463q30.2-3.813,60.535-6.4" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_9" data-name="Trazado 9" class="cls-1" d="M341.3,633.937q-4.9,24.057-7.635,48.491" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_10" data-name="Trazado 10" class="cls-1" d="M401.279,625.206l14.512,34.661" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_11" data-name="Trazado 11" class="cls-1" d="M322.027,627.436c3.448-3.2,3.249-9,6.555-12.36a14.757,14.757,0,0,1,6.16-3.218,143.882,143.882,0,0,1,74.16-3.822,6.772,6.772,0,0,1,3.156,1.282c1.41,1.246,1.56,3.357,1.576,5.239a158,158,0,0,1-9.4,54.967" transform="translate(-301.5 -595.5)"/>
+        <path id="Trazado_12" data-name="Trazado 12" class="cls-1" d="M319.7,630.776a120.788,120.788,0,0,0,13.425,54.973" transform="translate(-301.5 -595.5)"/>
+      </g>
+    </g>
+    <g id="MENU" class="cls-2">
+      <text class="cls-3" transform="translate(51.985 107.823) rotate(-15.009)">MENU</text>
+    </g>
+  </g>
+  <rect class="cls-4" width="133" height="133"/>
+</svg>
